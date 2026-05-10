@@ -75,23 +75,14 @@ const me = {
 
 ---
 
-### GitHub stats
+### Contributions
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsthatmay&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsthatmay&layout=compact&hide_border=true&theme=tokyonight&title_color=58A6FF&langs_count=8" alt="Top languages" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=itsthatmay&hide_border=true&theme=tokyonight&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsthatmay&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="95%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsthatmay&hide_border=true&theme=tokyo-night&color=58A6FF&line=58A6FF&point=ffffff&area=true" alt="Activity graph" width="95%" />
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
-  <img alt="snake animation over the contribution graph" src="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/snake-light.svg" />
+  <img alt="A snake clearing the GitHub contribution graph" src="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/snake-dark.svg" width="100%" />
 </picture>
 
 </div>
