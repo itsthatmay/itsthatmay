@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=itsthatmay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=full-stack%20developer%20%C2%B7%20web%2C%20mobile%2C%20and%20the%20servers%20under%20them&descSize=17&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=itsthatmay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=full-stack%20developer%20%C2%B7%20web%2C%20mobile%2C%20and%20the%20infrastructure%20behind%20them&descSize=17&descAlignY=58" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/itsthatmay">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=I+ship+things+and+then+keep+them+running.;Next.js+%C2%B7+Node%2FFastify+%C2%B7+PostgreSQL+%C2%B7+Flutter;Mostly+building%2C+occasionally+sleeping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-stack+developer;Next.js+%C2%B7+Node%2FFastify+%C2%B7+PostgreSQL+%C2%B7+Flutter;I+build+products+and+keep+them+running." alt="Typing SVG" />
 </a>
 
 <p>
@@ -14,21 +14,20 @@
 
 ---
 
-### Hey
+### About
 
-I'm a full-stack developer. I build web apps the whole way through: Next.js on the front, Node/Fastify and PostgreSQL behind it, Flutter when there's a phone involved, and I run the result on Linux boxes I look after myself (Caddy, PM2, nightly `pg_dump` to object storage, the usual chores).
+I'm a full-stack developer working across the entire stack: Next.js on the front end, Node/Fastify and PostgreSQL on the back end, Flutter for mobile, and the deployment side as well — Linux servers I administer myself, with a reverse proxy, a process manager, and scheduled backups.
 
-Right now most of my time goes into two products of my own: a platform for serialized fiction with a web app and a Flutter client, and a marketplace for in-game items. Both private for now, but I'm glad to give a tour if you're curious.
+Most of my current work goes into two products of my own: a platform for serialized fiction with a web app and a Flutter client, and a marketplace for in-game items. Both are private repositories at the moment; I'm happy to provide a walkthrough on request.
 
 ```ts
 const me = {
-  role: "full-stack developer",
-  writes: ["TypeScript", "Dart", "SQL", "the occasional bash one-liner"],
-  uses: ["Next.js", "React", "Node", "Fastify", "Prisma", "Flutter", "Redis"],
-  runs: "self-managed Linux — reverse proxy, process manager, cron'd backups",
-  building: ["serialized-fiction platform (web + mobile)", "in-game items marketplace"],
-  cares_about: ["small migrations", "few moving parts", "logs you can actually read"],
-  currently: "tightening mobile releases and adding metrics that mean something",
+  role: "Full-stack developer",
+  languages: ["TypeScript", "Dart", "SQL", "Bash"],
+  stack: ["Next.js", "React", "Node", "Fastify", "Prisma", "Flutter", "Redis"],
+  infrastructure: "Self-managed Linux — reverse proxy, process manager, scheduled backups",
+  building: ["Serialized-fiction platform (web + mobile)", "In-game items marketplace"],
+  focus: ["Clean data models", "Maintainable migrations", "Observable systems"],
 };
 ```
 
@@ -66,7 +65,7 @@ const me = {
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-**Day to day**
+**Tooling**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -76,7 +75,7 @@ const me = {
 
 ---
 
-### A bit of GitHub trivia
+### GitHub stats
 
 <div align="center">
 
@@ -89,39 +88,35 @@ const me = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsthatmay&hide_border=true&theme=tokyo-night&color=58A6FF&line=58A6FF&point=ffffff&area=true" alt="Activity graph" width="95%" />
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
+  <img alt="snake animation over the contribution graph" src="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
+</picture>
 
-<sub>Numbers are light because the real work sits in private repos. The graph below is more honest about how much time I actually spend in here.</sub>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake-dark.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
-    <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
-  </picture>
 </div>
 
 ---
 
-### What I've been building
+### Selected work
 
-**📖 A serialized-fiction platform** &nbsp;·&nbsp; *private*
-Readers follow stories chapter by chapter, writers publish and manage their work. Next.js (App Router), Prisma, PostgreSQL, NextAuth with JWT sessions, a moderation/role layer, and a Flutter app that talks to its own mobile API. Backups run nightly as encrypted dumps pushed off the server. The whole thing lives on a Linux VPS I administer, behind a reverse proxy with PM2 keeping the processes up.
+**📖 Serialized-fiction platform** &nbsp;·&nbsp; *private*
+A reading and writing platform where stories are published chapter by chapter. Built with Next.js (App Router), Prisma, and PostgreSQL, with NextAuth JWT sessions, a role and moderation layer, and a Flutter client served by a dedicated mobile API. Nightly encrypted database dumps are pushed off the server. Deployed on a self-administered Linux VPS behind a reverse proxy, with PM2 supervising the processes.
 
-**🎮 An in-game items marketplace** &nbsp;·&nbsp; *private*
-Buy and sell items between players. Next.js 15 storefront, Fastify API, Prisma/PostgreSQL, Redis for caching and sessions, a few scheduled jobs doing the housekeeping, fronted by Caddy with automatic TLS.
+**🎮 In-game items marketplace** &nbsp;·&nbsp; *private*
+A marketplace for trading in-game items between players. Next.js 15 storefront, Fastify API, Prisma and PostgreSQL, Redis for caching and sessions, scheduled background jobs for housekeeping, fronted by Caddy with automatic TLS.
 
-Curious about either? Send a message and I'll walk you through the code.
+I'm glad to provide a walkthrough of either codebase on request.
 
 ---
 
-### Say hi
+### Contact
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andspavzk@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsthatmay)
-<!-- when you're ready, drop in your LinkedIn / site / Twitter:
+<!-- Add your LinkedIn / portfolio / Twitter when ready:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Website](https://img.shields.io/badge/site-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-domain.com)
+[![Website](https://img.shields.io/badge/website-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-domain.com)
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
