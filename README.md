@@ -1,8 +1,10 @@
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=itsthatmay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20Infrastructure&descSize=18&descAlignY=58" alt="header" />
+
 <div align="center">
 
-<!-- Animated header -->
 <a href="https://github.com/itsthatmay">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-stack+developer;Building+products+end+to+end;Web+%C2%B7+Mobile+%C2%B7+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+products+end+to+end;Type-safe+stacks%2C+sane+migrations%2C+boring+deploys;Web+%C2%B7+Mobile+%C2%B7+Infrastructure" alt="Typing SVG" />
 </a>
 
 <p>
@@ -78,12 +80,23 @@ backups, process managers and deployment pipelines on bare-metal Linux servers.
 
 <img height="165" src="https://streak-stats.demolab.com?user=itsthatmay&hide_border=true&theme=tokyonight&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=itsthatmay&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="95%" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsthatmay&hide_border=true&theme=tokyo-night&color=58A6FF&line=58A6FF&point=ffffff&area=true" alt="Activity graph" width="95%" />
 
 </div>
 
 > Most of my work lives in private repositories, so public contribution counts don't tell the
 > whole story — happy to walk through code and architecture on request.
+
+<!-- Snake eating the contribution graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
@@ -112,6 +125,8 @@ with automatic TLS.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 [![Website](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-domain.com)
 -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
 
 <div align="center">
   <sub>Clean code, sane migrations, boring deploys. That's the goal.</sub>
