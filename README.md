@@ -1,35 +1,40 @@
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=itsthatmay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20Infrastructure&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=itsthatmay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=full-stack%20developer%20%C2%B7%20web%2C%20mobile%2C%20and%20the%20servers%20under%20them&descSize=17&descAlignY=58" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/itsthatmay">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+products+end+to+end;Type-safe+stacks%2C+sane+migrations%2C+boring+deploys;Web+%C2%B7+Mobile+%C2%B7+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=I+ship+things+and+then+keep+them+running.;Next.js+%C2%B7+Node%2FFastify+%C2%B7+PostgreSQL+%C2%B7+Flutter;Mostly+building%2C+occasionally+sleeping." alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=itsthatmay&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itsthatmay&label=profile%20views&color=58A6FF&style=flat" alt="profile views" />
 </p>
 
 </div>
 
 ---
 
-### `whoami`
+### Hey
 
-Full-stack developer focused on shipping real, production-grade products — not just prototypes.
-I work across the whole stack: type-safe **TypeScript/Next.js** front and back ends, **Flutter**
-mobile apps, **PostgreSQL** schema design, and the boring-but-important parts — reverse proxies,
-backups, process managers and deployment pipelines on bare-metal Linux servers.
+I'm a full-stack developer. I build web apps the whole way through: Next.js on the front, Node/Fastify and PostgreSQL behind it, Flutter when there's a phone involved, and I run the result on Linux boxes I look after myself (Caddy, PM2, nightly `pg_dump` to object storage, the usual chores).
 
-- 🧱 I care about clean data models, sane migrations, and not waking up to a broken prod.
-- 📦 Comfortable owning a feature from DB column → API → UI → release build.
-- 🐧 Self-host and operate my own infra (Caddy/Nginx, PM2, systemd, automated `pg_dump` → object storage).
-- 🌱 Currently going deeper on mobile release engineering and observability.
+Right now most of my time goes into two products of my own: a platform for serialized fiction with a web app and a Flutter client, and a marketplace for in-game items. Both private for now, but I'm glad to give a tour if you're curious.
+
+```ts
+const me = {
+  role: "full-stack developer",
+  writes: ["TypeScript", "Dart", "SQL", "the occasional bash one-liner"],
+  uses: ["Next.js", "React", "Node", "Fastify", "Prisma", "Flutter", "Redis"],
+  runs: "self-managed Linux — reverse proxy, process manager, cron'd backups",
+  building: ["serialized-fiction platform (web + mobile)", "in-game items marketplace"],
+  cares_about: ["small migrations", "few moving parts", "logs you can actually read"],
+  currently: "tightening mobile releases and adding metrics that mean something",
+};
+```
 
 ---
 
-### 🛠️ Tech Stack
+### Stack
 
 **Languages**
 
@@ -39,7 +44,7 @@ backups, process managers and deployment pipelines on bare-metal Linux servers.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks & libraries**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,7 +55,7 @@ backups, process managers and deployment pipelines on bare-metal Linux servers.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
 
-**Data & Infrastructure**
+**Data & infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -61,7 +66,7 @@ backups, process managers and deployment pipelines on bare-metal Linux servers.
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-**Tooling**
+**Day to day**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -71,7 +76,7 @@ backups, process managers and deployment pipelines on bare-metal Linux servers.
 
 ---
 
-### 📊 GitHub Stats
+### A bit of GitHub trivia
 
 <div align="center">
 
@@ -86,48 +91,37 @@ backups, process managers and deployment pipelines on bare-metal Linux servers.
 
 </div>
 
-> Most of my work lives in private repositories, so public contribution counts don't tell the
-> whole story — happy to walk through code and architecture on request.
+<sub>Numbers are light because the real work sits in private repos. The graph below is more honest about how much time I actually spend in here.</sub>
 
-<!-- Snake eating the contribution graph -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=2" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake-dark.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
+    <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/itsthatmay/itsthatmay/output/github-contribution-grid-snake.svg?v=3" />
   </picture>
 </div>
 
 ---
 
-### 🚀 Selected Work
+### What I've been building
 
-**📖 Edda — social storytelling platform** · *private*
-A Wattpad-style platform where readers and writers publish serialized stories. Next.js (App Router) +
-Prisma + PostgreSQL with NextAuth (JWT) auth, role/moderation system, a Flutter companion app talking
-to a dedicated mobile JWT API, and a daily encrypted backup pipeline (`pg_dump` → object storage).
-Deployed on a self-managed Linux VPS behind a reverse proxy with PM2-supervised processes.
+**📖 A serialized-fiction platform** &nbsp;·&nbsp; *private*
+Readers follow stories chapter by chapter, writers publish and manage their work. Next.js (App Router), Prisma, PostgreSQL, NextAuth with JWT sessions, a moderation/role layer, and a Flutter app that talks to its own mobile API. Backups run nightly as encrypted dumps pushed off the server. The whole thing lives on a Linux VPS I administer, behind a reverse proxy with PM2 keeping the processes up.
 
-**🎮 ItemMarket — gaming items marketplace** · *private*
-A marketplace for trading in-game items. Next.js 15 storefront, Fastify API, Prisma/PostgreSQL,
-Redis for caching/sessions, scheduled background jobs, and a production deployment fronted by Caddy
-with automatic TLS.
+**🎮 An in-game items marketplace** &nbsp;·&nbsp; *private*
+Buy and sell items between players. Next.js 15 storefront, Fastify API, Prisma/PostgreSQL, Redis for caching and sessions, a few scheduled jobs doing the housekeeping, fronted by Caddy with automatic TLS.
 
-*Want a closer look? Reach out — I'm glad to share a walkthrough.*
+Curious about either? Send a message and I'll walk you through the code.
 
 ---
 
-### 📫 Get in touch
+### Say hi
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andspavzk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsthatmay)
-<!-- Add your LinkedIn / portfolio / Twitter below when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Website](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-domain.com)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andspavzk@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsthatmay)
+<!-- when you're ready, drop in your LinkedIn / site / Twitter:
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Website](https://img.shields.io/badge/site-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-domain.com)
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
-
-<div align="center">
-  <sub>Clean code, sane migrations, boring deploys. That's the goal.</sub>
-</div>
